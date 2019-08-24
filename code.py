@@ -1,7 +1,7 @@
 import scapy.all as scapy
 import optparse as opt
 import time
-
+s
 def input():
     parser_object = opt.OptionParser()
     parser_object.add_option("-t","--target",dest="target",help="Hedef IP Adresi")
